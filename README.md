@@ -92,3 +92,37 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
+
+## How to Run the Project
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <your-repo-url>
+   cd <repo-directory>
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the app**
+
+   ```bash
+   npm run dev
+   ```
+
+   Visit [http://localhost:5173](http://localhost:5173) or the URL shown in your terminal.
+
+4. **Run tests**
+   ```bash
+   npm test
+   ```
+
+---
+
+## Screenshot
+
+![Screenshot of the blog app](./images/blog-screenshot.png)
