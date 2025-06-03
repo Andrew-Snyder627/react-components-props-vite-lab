@@ -4,6 +4,9 @@ import Header from "./Header";
 import About from "./About";
 import ArticleList from "./ArticleList";
 
+// App is the root component and assembles the blog page layout, brings it all together
+// Passes the blog data down to the child components by their props
+
 function App() {
   return (
     <div className="App">

@@ -1,6 +1,6 @@
 import React from "react";
 
-// Header receives name as a prop from App
+// Header receives name as a prop from App and displays the blogs title at the top of the site
 function Header({ name }) {
   return (
     <header>
